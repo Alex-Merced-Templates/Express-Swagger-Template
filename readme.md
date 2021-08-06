@@ -1,4 +1,5 @@
 ## Express Swagger Template
+#### by Alex Merced of AlexMerced.com
 
 This is an express server template for building API with swagger documentation.
 
